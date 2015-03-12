@@ -16,7 +16,7 @@ body {
 }
 #logo {
   margin: 3em 3em 3em 3em;
-  img.ri { max-width: 75%; }
+  img.ri { max-height: 75%; }
 }
 hr {
    width: 300px;
