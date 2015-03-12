@@ -16,7 +16,9 @@ body {
 }
 #logo {
   margin: 3em 3em 3em 3em;
-  img.ri { max-height: 75%; }
+  @media screen and (orientation: landscape) {
+  img.ri { max-height: 90%; }
+}
 }
 hr {
    width: 300px;
