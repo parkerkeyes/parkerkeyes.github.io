@@ -1,2 +1,24 @@
-body {background-color:#FCFAFB;}
-h1,p,h6 {color:#285F3E;}
+body {
+  text-align: center;
+  background: images/pond1.jpg;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+  font-family: courier, "monospace";
+  font-weight: normal;
+}
+hr {
+   width: 350px;
+}
+p {
+  padding: 10px 50px;
+  font-size: 22px;
+  text-align: justify;
+}
+#slogan {
+  font-size: 30px;
+  font-style: itallic;
+  list-style-position: inside;
+}
