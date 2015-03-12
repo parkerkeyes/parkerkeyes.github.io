@@ -2,6 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Habibi);
 * {margin:0;padding:0;box-sizing:border-box;}
 body {
+  background:url('images/pond1.jpg');
   text-align: center;
   margin: 1.5em;
   background-size: cover; 
