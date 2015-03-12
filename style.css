@@ -1,23 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo);
+@import url(http://fonts.googleapis.com/css?family=Habibi);
+
 body {
   text-align: center;
+  margin: 1.5em;
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   color: #fff;
-  font-family: courier, "monospace";
-  font-weight: normal;
+  font-family: Habibi, courier, monospace;
+  font-style: light;
+}
+#logo {
+  margin: 3em 0em 0em 0em
 }
 hr {
-   width: 350px;
+   width: 300px;
 }
 p {
-  padding: 10px 50px;
-  font-size: 22px;
+  padding: 1em 2em;
+  font-size: 20px;
+  line-height: 1.6em;
   text-align: justify;
 }
 #slogan {
-  font-size: 30px;
-  font-style: itallic;
+  font-size: 2.7em;
+  font-family: "Arvo";
+  font-style: bold;
   list-style-position: inside;
+}
+#disclaimer {
+  font-family: "Courier New";
 }
