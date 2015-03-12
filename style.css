@@ -15,10 +15,7 @@ body {
   font-size: 20px;
 }
 #logo {
-  @media screen and (orientation: portrait) {
-  img.ri { max-width: 50%; }
-  @media screen and (orientation: landscape) {
-  img.ri { max-height: 50%; }
+  max-width: 75%;
 }
 }
 }
