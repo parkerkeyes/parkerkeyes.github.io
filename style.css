@@ -32,7 +32,7 @@ p {
   font-size: 2.75em;
   font-family: "Arvo", serif;
   font-weight: 400;
-  list-style-position: inside;
+  max-width: 75%;
 }
 #disclaimer {
   font-family: "Courier New", monospace;
