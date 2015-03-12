@@ -31,7 +31,10 @@ p {
   font-family: "Arvo", serif;
   font-weight: 400;
   max-width: 90%;
+  text-align: center;
 }
 #disclaimer {
+  font-size: .5em;
   font-family: "Courier New", monospace;
+  text-align: center;
 }
