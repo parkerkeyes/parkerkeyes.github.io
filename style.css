@@ -19,7 +19,8 @@ body {
   max-height: 75%;
 }
 hr {
-   width: 5em;
+  size: 1em;
+   width: 10em;
    text-align: center;
 }
 p {
