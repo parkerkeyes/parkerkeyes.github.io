@@ -19,9 +19,7 @@ body {
   max-height: 75%;
 }
 hr {
-  size: 1em;
-   width: 10em;
-   text-align: center;
+  max-width: 75%;
 }
 p {
   padding: 2em 2em;
