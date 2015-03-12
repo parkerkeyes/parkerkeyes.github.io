@@ -9,27 +9,27 @@ body {
   background-position: center;
   background-attachment: fixed;
   color: #fff;
-  font-family: Habibi, courier, monospace;
-  font-style: light;
+  font-family: 'Habibi', courier, monospace;
+  font-weight: light;
+  font-size: 20px;
 }
 #logo {
-  margin: 3em 0em 0em 0em
+  margin: 3em 0em 0em 0em;
 }
 hr {
    width: 300px;
 }
 p {
   padding: 1em 2em;
-  font-size: 20px;
   line-height: 1.6em;
   text-align: justify;
 }
 #slogan {
   font-size: 2.7em;
-  font-family: "Arvo";
-  font-style: bold;
+  font-family: "Arvo", serif;
+  font-weight: 400;
   list-style-position: inside;
 }
 #disclaimer {
-  font-family: "Courier New";
+  font-family: "Courier New", monospace;
 }
