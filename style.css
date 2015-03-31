@@ -5,11 +5,11 @@ body {
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment:fixed;
-  font-size:18px;
-  margin:0;
-  padding:0;
-  height:100%;
+  background-attachment: fixed;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+  height: 100%;
 }
 #wrapper {
 	height: auto !important;
@@ -19,43 +19,43 @@ body {
 }
 #header {
 	height: 100px;
-	background:rgba(0,0,0,.2);
-	padding:10px;
+	background: rgba(0,0,0,.2);
+	padding: 10px;
 }	
 #logo {
 	display: block;
-  	max-width:100px;
+  	max-width: 100px;
 }
 #title {
   	max-width: 60%
 }
 .content {
-  	font-size:3.0em;
-  	font-family:"courier new", "courier", monospace;
-  	font-style:bold;
-  	padding:10px;
-  	padding-bottom:50px;
-  	text-align:center;
+  	font-size: 3.0em;
+  	font-family: "courier new", "courier", monospace;
+  	font-style: bold;
+  	padding: 10px;
+  	padding-bottom: 50px;
+  	text-align: center;
 }
 .push {
-	height:3em;
+	height: 3em;
 }
 }
 #footer {
-	width:100%;
-	height:3em;
-	position:absolute;
-	padding:0;
-	bottom:0;
-	left:0;
-	background:rgba(0,0,0,.5);
-	color:#ffffff;
-  	text-align:right;
+	width: 100%;
+	height: 3em;
+	position: absolute;
+	padding: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,.5);
+	color: #ffffff;
+  	text-align: right;
   	font-family: "courier-new", "courier", monospace;
 }
 a.white:link {
 	color: #ffffff;
 }
 a.white:hover {
-	color:red;
+	color: red;
 }
