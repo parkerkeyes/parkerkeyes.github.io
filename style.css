@@ -2,17 +2,20 @@ body {
   background-size: cover; 
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
+  background-attachment:fixed;
   font-size:18px;
   margin:0;
   padding:0;
   height:100%;
 }
-#wrapper {
-	min-height:100%;
-	position:relative;
+.wrapper {
+	height: auto;
+	height: 100%;
+	min-height: 100%;
+	position: relative;
+	margin: 0 auto -2em;
 }
-#header {
+.header {
 	background:rgba(0,0,0,.2);
 	padding:10px;
 }
@@ -25,11 +28,11 @@ body {
   text-align:center;
 }
 .after-content {
-	clear:left;
+	clear:both;
 }
-#footer {
+.footer {
 	width:100%;
-	height:50px;
+	height:2em;
 	position:absolute;
 	padding:0;
 	bottom:0;
@@ -45,9 +48,9 @@ a.white:link {
 a.white:hover {
 	color:red;
 }
-#logo {
+.logo {
   width:100px;
 }
-#title {
+.title {
   width: 60%
 }
