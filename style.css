@@ -2,14 +2,14 @@
 	margin: 0;
 }
 body {
-  background-size: cover; 
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  font-size: 18px;
-  margin: 0;
-  padding: 0;
-  height: 100%;
+  	background-size: cover; 
+  	background-repeat: no-repeat;
+  	background-position: center;
+  	background-attachment: fixed;
+  	font-size: 18px;
+  	margin: 0;
+	padding: 0;
+  	height: 100%;
 }
 #wrapper {
 	height: auto;
@@ -18,7 +18,8 @@ body {
 	margin: 0 auto -3em;
 }
 #header {
-	height: 100px;
+	display: inline-block;
+	height: 10em;
 	background: rgba(0,0,0,.2);
 	padding: 10px;
 }	
@@ -44,6 +45,7 @@ body {
 #footer {
 	width: 100%;
 	height: 10em;
+	display: block;
 	position: absolute;
 	padding: 0;
 	bottom: 0;
