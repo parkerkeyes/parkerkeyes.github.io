@@ -8,14 +8,13 @@ body {
   padding:0;
   height:100%;
 }
-.wrapper {
+#wrapper {
 	height: auto;
 	height: 100%;
 	min-height: 100%;
-	position: relative;
 	margin: 0 auto -2em;
 }
-header {
+#header {
 	height: 100px;
 	background:rgba(0,0,0,.2);
 	padding:10px;
