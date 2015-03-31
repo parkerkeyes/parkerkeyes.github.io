@@ -1,3 +1,6 @@
+* {
+	margin: 0;
+}
 body {
   background-size: cover; 
   background-repeat: no-repeat;
@@ -12,7 +15,7 @@ body {
 	height: auto;
 	height: 100%;
 	min-height: 100%;
-	margin: 0 auto -2em;
+	margin: 0 auto -3em;
 }
 #header {
 	height: 100px;
@@ -34,12 +37,13 @@ body {
   	padding-bottom:50px;
   	text-align:center;
 }
-.after-content {
-	clear:both;
+.push {
+	height:3em;
+}
 }
 #footer {
 	width:100%;
-	height:2em;
+	height:3em;
 	position:absolute;
 	padding:0;
 	bottom:0;
