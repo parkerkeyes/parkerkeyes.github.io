@@ -18,16 +18,17 @@ body {
 	margin: 0 auto -3em;
 }
 #header {
-	display: inline-block;
+	display: block;
 	height: 10em;
 	background: rgba(0,0,0,.2);
-	padding: 10px;
+	padding: 1em;
 }	
 #logo {
 	display: block;
   	max-width: 100px;
 }
 #title {
+	display: block;
   	max-width: 60%;
 }
 .content {
