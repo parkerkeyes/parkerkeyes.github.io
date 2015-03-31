@@ -20,18 +20,19 @@ body {
 	padding:10px;
 }	
 #logo {
-  max-width:100px;
+	display: block;
+  	max-width:100px;
 }
 #title {
-  max-width: 60%
+  	max-width: 60%
 }
 .content {
-  font-size:3.0em;
-  font-family:"courier new", "courier", monospace;
-  font-style:bold;
-  padding:10px;
-  padding-bottom:50px;
-  text-align:center;
+  	font-size:3.0em;
+  	font-family:"courier new", "courier", monospace;
+  	font-style:bold;
+  	padding:10px;
+  	padding-bottom:50px;
+  	text-align:center;
 }
 .after-content {
 	clear:both;
