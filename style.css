@@ -24,7 +24,7 @@ body {
   padding-bottom:50px;
   text-align:center;
 }
-p.clear {
+.after-content {
 	clear:left;
 }
 #footer {
