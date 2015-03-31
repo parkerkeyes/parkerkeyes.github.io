@@ -18,6 +18,12 @@ body {
 .header {
 	background:rgba(0,0,0,.2);
 	padding:10px;
+}	
+#logo {
+  width:100px;
+}
+#title {
+  width: 60%
 }
 .content {
   font-size:3.0em;
@@ -47,10 +53,4 @@ a.white:link {
 }
 a.white:hover {
 	color:red;
-}
-#logo {
-  width:100px;
-}
-#title {
-  width: 60%
 }
