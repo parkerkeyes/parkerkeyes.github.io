@@ -14,7 +14,7 @@ body {
 }
 header {
 	display: block;
-	height: 8em;
+	height: 6em;
 	background: rgba(0,0,0,.2);
 	padding: 1em;
 }	
@@ -38,7 +38,6 @@ header {
 }
 .sample {
 	width: 40%;
-	float: left;
 	margin: 0 auto;
 	display: block;
 	padding: 1em;
