@@ -11,12 +11,14 @@ body {
   	margin: 0;
 	padding: 0;
   	height: 100%;
+  	border: 2px;
 }
 header {
 	display: block;
 	height: 6em;
 	background: rgba(0,0,0,.2);
 	padding: 1em;
+	border: 2px;
 }	
 #logo {
   	max-width: 100px;
@@ -31,16 +33,19 @@ header {
   	padding: 10px;
   	padding-bottom: 50px;
   	text-align: center;
+  	border:2px;
 }
 #images {
 	display: block;
 	margin: 0 auto;
+	border:2px;
 }
 .sample {
 	width: 40%;
 	margin: 0 auto;
 	display: block;
 	padding: 1em;
+	border:2px;
 }
 .break {
 	height: 0px;
@@ -58,6 +63,7 @@ footer {
 	color: #ffffff;
   	text-align: right;
   	font-family: "courier-new", "courier", monospace;
+  	border:2px;
 }
 a.white:link {
 	color: #ffffff;
