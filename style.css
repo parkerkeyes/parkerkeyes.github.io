@@ -45,7 +45,7 @@ header {
 	margin: 0 auto;
 	padding: 1em;
 	display: inline-block;
-	clear: left;
+	clear: right;
 }
 footer {
 	width: 100%;
