@@ -39,6 +39,10 @@ header {
   	padding-bottom: 50px;
   	text-align: center;
 }
+#canvas {
+	background: white
+	width: 90%;
+}
 .sample {
 	width: 400px;
 	float: left;
