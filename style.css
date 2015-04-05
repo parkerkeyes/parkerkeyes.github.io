@@ -41,7 +41,7 @@ header {
 }
 #canvas {
 	display: block;
-	background: white
+	background: white;
 	width: 90%;
 	padding: 1em;
 }
