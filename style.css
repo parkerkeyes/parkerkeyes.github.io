@@ -37,7 +37,6 @@ header {
 	margin: 0 auto;
 	width: 100%;
 	position: relative;
-	background: #fff;
 }
 .sample {
 	width: 50%;
@@ -45,6 +44,8 @@ header {
 	padding: 1em;
 	float: left;
 	position: relative;
+	border: rgba(0,0,0,.2);
+	border-width: .2em;
 }
 .break {
 	height: 0px;
