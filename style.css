@@ -46,6 +46,7 @@ header {
 	display: block;
 	padding: 1em;
 	border:2px;
+	float: left;
 }
 .break {
 	height: 0px;
