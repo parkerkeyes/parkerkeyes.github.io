@@ -35,7 +35,7 @@ header {
 .sample {
 	width: 45%;
 	float: left;
-	margin: 5%;
+	margin: 0 auto;
 	padding: 1em;
 	display: inline-block;
 }
