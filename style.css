@@ -40,8 +40,10 @@ header {
   	text-align: center;
 }
 #canvas {
+	display: block;
 	background: white
 	width: 90%;
+	padding: 1em;
 }
 .sample {
 	width: 400px;
