@@ -36,12 +36,14 @@ header {
 	display: inline-block;
 	margin: 0 auto;
 	width: 100%;
+	position: absolute;
 }
 .sample {
 	width: 40%;
 	display: block;
 	padding: 1em;
 	float: left;
+	position: relative;
 }
 .break {
 	height: 0px;
