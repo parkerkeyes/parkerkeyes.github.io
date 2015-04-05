@@ -28,8 +28,8 @@ header {
   	font-size: 3.0em;
   	font-family: "courier new", "courier", monospace;
   	font-style: bold;
-  	padding: 10px;
-  	padding-bottom: 50px;
+  	padding: 1em;
+  	padding-bottom: 1em;
   	text-align: center;
 }
 #images {
