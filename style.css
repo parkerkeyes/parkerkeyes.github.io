@@ -32,6 +32,9 @@ header {
   	padding-bottom: 50px;
   	text-align: center;
 }
+#images {
+	margin: auto;
+}
 .sample {
 	width: 40%;
 	float: left;
