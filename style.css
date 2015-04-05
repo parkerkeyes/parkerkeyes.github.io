@@ -35,12 +35,13 @@ header {
 #images {
 	display: inline-block;
 	margin: 0 auto;
+	width: 100%;
 }
 .sample {
 	width: 40%;
-	margin: 0 auto;
 	display: block;
 	padding: 1em;
+	float: left;
 }
 .break {
 	height: 0px;
@@ -58,7 +59,6 @@ footer {
 	color: #ffffff;
   	text-align: right;
   	font-family: "courier-new", "courier", monospace;
-  	border:2px;
 }
 a.white:link {
 	color: #ffffff;
