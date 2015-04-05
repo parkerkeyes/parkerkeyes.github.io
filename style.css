@@ -46,6 +46,7 @@ header {
 	padding: 1em;
 	display: block;
 	clear: left;
+	position: absolute;
 }
 footer {
 	width: 100%;
