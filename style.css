@@ -37,7 +37,7 @@ header {
 	float: left;
 	margin: auto;
 	padding: 1em;
-	display: block;
+	display: inline-block;
 }
 .break {
 	height: 0px;
