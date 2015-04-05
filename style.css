@@ -33,10 +33,10 @@ header {
   	text-align: center;
 }
 .sample {
-	width: 40%;
+	width: 45%;
 	float: left;
-	margin: auto;
-	padding: 5%;
+	margin: 5%;
+	padding: 1em;
 	display: inline-block;
 }
 .break {
