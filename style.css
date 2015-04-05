@@ -41,7 +41,8 @@ header {
 .sample {
 	width: 40%;
 	float: left;
-	margin: 1em;
+	margin: auto;
+	padding: 1em;
 }
 footer {
 	width: 100%;
