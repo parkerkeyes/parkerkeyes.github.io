@@ -18,7 +18,6 @@ body {
 	min-height: 100%;
 	width: 100%;
 	margin: 0 auto -3em;
-	text-align: center;
 }
 header {
 	display: block;
@@ -47,6 +46,7 @@ header {
 	padding: 1em;
 	display: inline-block;
 	clear: both;
+	text-align: center;
 }
 footer {
 	width: 100%;
