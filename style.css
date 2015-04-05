@@ -17,6 +17,7 @@ body {
 	height: 100%;
 	min-height: 100%;
 	margin: 0 auto -3em;
+	position: relative;
 }
 header {
 	display: block;
@@ -43,6 +44,7 @@ header {
 	float: left;
 	margin: auto;
 	padding: 1em;
+	position: absolute;
 }
 footer {
 	width: 100%;
