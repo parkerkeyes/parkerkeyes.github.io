@@ -48,7 +48,7 @@ header {
 	clear: left;
 }
 .break {
-	clear: left;
+	clear: both;
 }
 footer {
 	width: 100%;
