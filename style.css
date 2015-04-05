@@ -42,7 +42,7 @@ header {
 .sample {
 	width: 40%;
 	float: left;
-	margin: auto;
+	margin: 0 auto;
 	padding: 1em;
 	position: absolute;
 }
