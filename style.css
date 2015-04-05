@@ -33,10 +33,9 @@ header {
   	text-align: center;
 }
 .sample {
-	width: 45%;
+	width: 40%;
 	float: left;
 	margin: 0 auto;
-	padding: 1em;
 	display: inline-block;
 }
 .break {
