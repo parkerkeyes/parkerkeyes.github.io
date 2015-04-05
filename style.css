@@ -44,7 +44,7 @@ header {
 	float: left;
 	margin: 0 auto;
 	padding: 1em;
-	display: inline-block;
+	display: block;
 	clear: left;
 }
 footer {
