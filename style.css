@@ -47,6 +47,9 @@ header {
 	display: block;
 	clear: left;
 }
+.break {
+	clear: left;
+}
 footer {
 	width: 100%;
 	height: 3em;
