@@ -70,3 +70,6 @@ a.white:link {
 a.white:hover {
 	color: red;
 }
+#navbar {
+	padding:.5em;
+}
